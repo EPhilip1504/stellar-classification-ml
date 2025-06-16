@@ -43,11 +43,3 @@ Both XGBoost and Random Forest Classifiers performed exceptionally well and show
 ## Deployment
 
 The best-performing Random Forest pipeline is saved using `joblib` as `my_classification_model.joblib` for future deployment.
-
-## Usage
-
-To use this project:
-1.  Clone the repository.
-2.  Install the necessary Python libraries (e.g., scikit-learn, pandas, numpy, seaborn, matplotlib, joblib).
-3.  Ensure `stellar_classification.csv` is in the project directory.
-4.  Run the `stellar_classification(1)(1).ipynb` notebook in a Jupyter environment.
